@@ -1,3 +1,7 @@
+> [!WARNING]
+> while i intend to make it stop phoning home to Google Admin Console (GAC), **AS OF NOW IT STILL WILL PHONE HOME ON INITIAL ENROLLMENT, AND SHOW AS POWERED OFF WHEN POLICYEDIT IS APPLIED.**
+> please DO NOT use this unless you're confident you won't get caught. excercise your best judgement.
+
 # murkmod
 murkmod is a continuation of fakemurk and mush that includes additional useful utilities, with the most prominent being a policy manager.
 the original can be found [here](https://github.com/rainestorme/murkmod)
